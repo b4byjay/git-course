@@ -1,6 +1,11 @@
 Add and remove users
 Change roles for users
+<<<<<<< HEAD
 
 create avatar for users
 
 create documentation
+=======
+Manage the database for now
+closing connection
+>>>>>>> feature2
