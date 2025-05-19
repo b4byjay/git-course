@@ -1,3 +1,4 @@
 Add and remove users
 Change roles for users
 Manage the database for now
+closing connection
