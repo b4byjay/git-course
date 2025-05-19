@@ -9,3 +9,6 @@ create documentation
 Manage the database for now
 closing connection
 >>>>>>> feature2
+
+Order food and coffee when managers are here
+create backups and schedule updates
