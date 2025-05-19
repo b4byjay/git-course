@@ -1,2 +1,6 @@
 Add and remove users
 Change roles for users
+
+create avatar for users
+
+create documentation
