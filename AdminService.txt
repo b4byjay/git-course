@@ -10,5 +10,9 @@ Manage the database for now
 closing connection
 >>>>>>> feature2
 
+<<<<<<< HEAD
 Order food and coffee when managers are here
 create backups and schedule updates
+=======
+Take 2 microsoft classes this year
+>>>>>>> 5aeb5fd (educational responsibilities)
