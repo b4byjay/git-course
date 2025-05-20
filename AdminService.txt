@@ -1,5 +1,5 @@
 Add and remove users
-Change roles for users
+Change roles for users sometimes
 <<<<<<< HEAD
 
 create avatar for users
